@@ -1,0 +1,11 @@
+# Virtuelle Umgebungen
+.venv/
+venv/
+env/
+
+# Python Cache-Dateien (die müllen auch alles zu)
+__pycache__/
+*.pyc
+
+# Mac-spezifischer Systemmüll (da ich auf deinen Screenshots gesehen habe, dass du einen Mac nutzt)
+.DS_Store
