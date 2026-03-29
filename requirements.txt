@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 appnope==0.1.4
 asttokens==3.0.1
 beautifulsoup4==4.14.3
@@ -42,3 +43,10 @@ traitlets==5.14.3
 typing_extensions==4.15.0
 wcwidth==0.6.0
 wordcloud==1.9.6
+=======
+wordcloud 1.9.6
+matplotlib 3.10.8
+pandas 3.0.1
+ipykernel 7.2.0
+
+>>>>>>> 3a8da291c2504a8f8b418c3745ed2d7f93a3de51
